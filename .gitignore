@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/
+.DS_Store
+CLAUDE.md
+MUFREDAT.md
+README-template.md
