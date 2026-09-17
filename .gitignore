@@ -11,3 +11,8 @@ README-template.md
 
 # Sohbet gecmisi - kisisel veri
 json/
+
+# Ornek veritabani
+*.db
+*.db-shm
+*.db-wal
