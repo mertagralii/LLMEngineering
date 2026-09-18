@@ -1,0 +1,6 @@
+@Modul_5_Embeddings_HostAddress = http://localhost:5121
+
+GET {{Modul_5_Embeddings_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

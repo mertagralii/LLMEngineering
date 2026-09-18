@@ -1,0 +1,50 @@
+Yarın İstanbul'da sağanak bekleniyor.
+Bugün hava çok sıcak ve güneşli.
+Sabah saatlerinde yoğun sis görülecek.
+Rüzgar akşama doğru şiddetini artıracak.
+Kar yağışı hafta sonu başlıyor.
+Nem oranı yüzde seksene çıktı.
+Gece sıcaklıkları sıfırın altına düşecek.
+Meteoroloji fırtına uyarısı yaptı.
+Öğleden sonra gök gürültülü sağanak var.
+Hafta boyunca açık ve ılıman bir hava hakim.
+C# ile konsol uygulaması yazdım.
+Entity Framework migration hatası aldım.
+API endpoint'ine yeni bir parametre ekledim.
+Unit testlerin hepsi başarıyla geçti.
+Git'te merge conflict çözmem gerekti.
+Docker imajını küçültmek için multi-stage build kullandım.
+Veritabanı sorgusu çok yavaş çalışıyordu, index ekledim.
+Async metotlarda deadlock sorunu yaşadım.
+Kod incelemesinde birkaç düzeltme istendi.
+Yeni sürümü production ortamına dağıttım.
+Akşama mercimek çorbası yaptım.
+Fırında tavuk için marine süresi iki saat.
+Hamuru mayalanmaya bıraktım.
+Zeytinyağlı enginar çok lezzetli oldu.
+Kahvaltıda menemen yaptık.
+Tarifte tereyağı yerine zeytinyağı kullandım.
+Pilavın suyunu iyi ayarlamak lazım.
+Tatlı için şerbeti soğuk dökmek gerekiyor.
+Sebzeleri buharda pişirmek daha sağlıklı.
+Ekmeği evde yapmaya başladım.
+Maç iki bir bitti.
+Takım ikinci yarıda çok iyi oynadı.
+Kaleci son dakikada penaltı kurtardı.
+Basketbol maçı uzatmalara gitti.
+Sezonun en iyi golü seçildi.
+Antrenman programını üç güne çıkardım.
+Milli takım gruptan lider çıktı.
+Hakem kararı tartışma yarattı.
+Maraton koşusunu dört saatte tamamladı.
+Transfer döneminde kadroya iki oyuncu katıldı.
+Kedi bahçede uyuyor.
+Köpek parkta koşuyor.
+Balıkların suyunu haftada bir değiştiriyorum.
+Muhabbet kuşu sabahları çok ötüyor.
+Veteriner aşı zamanının geldiğini söyledi.
+Kedim mama saatini şaşırmıyor.
+Köpeğimi her akşam yürüyüşe çıkarıyorum.
+Kaplumbağalar kış uykusuna yatıyor.
+Barınaktan bir yavru sahiplendik.
+Tavşanın kafesini temizlemem gerek.

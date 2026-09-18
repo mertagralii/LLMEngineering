@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul-3-StructuredOutput", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul-4-FunctionCalling", "Modul-4-FunctionCalling\Modul-4-FunctionCalling.csproj", "{DD859BC9-162B-4EB9-9A9A-DE153519BDC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul-5-Embeddings", "Modul-5-Embeddings\Modul-5-Embeddings.csproj", "{C3F3C6C2-75F5-4490-A8A7-884CEF780418}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,18 @@ Global
 		{DD859BC9-162B-4EB9-9A9A-DE153519BDC5}.Release|x64.Build.0 = Release|Any CPU
 		{DD859BC9-162B-4EB9-9A9A-DE153519BDC5}.Release|x86.ActiveCfg = Release|Any CPU
 		{DD859BC9-162B-4EB9-9A9A-DE153519BDC5}.Release|x86.Build.0 = Release|Any CPU
+		{C3F3C6C2-75F5-4490-A8A7-884CEF780418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F3C6C2-75F5-4490-A8A7-884CEF780418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F3C6C2-75F5-4490-A8A7-884CEF780418}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C3F3C6C2-75F5-4490-A8A7-884CEF780418}.Debug|x64.Build.0 = Debug|Any CPU
+		{C3F3C6C2-75F5-4490-A8A7-884CEF780418}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C3F3C6C2-75F5-4490-A8A7-884CEF780418}.Debug|x86.Build.0 = Debug|Any CPU
+		{C3F3C6C2-75F5-4490-A8A7-884CEF780418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F3C6C2-75F5-4490-A8A7-884CEF780418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F3C6C2-75F5-4490-A8A7-884CEF780418}.Release|x64.ActiveCfg = Release|Any CPU
+		{C3F3C6C2-75F5-4490-A8A7-884CEF780418}.Release|x64.Build.0 = Release|Any CPU
+		{C3F3C6C2-75F5-4490-A8A7-884CEF780418}.Release|x86.ActiveCfg = Release|Any CPU
+		{C3F3C6C2-75F5-4490-A8A7-884CEF780418}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
