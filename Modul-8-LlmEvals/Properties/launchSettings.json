@@ -1,0 +1,28 @@
+{
+  "profiles": {
+    "zero-shot": {
+      "commandName": "Project",
+      "commandLineArgs": "run 1-zero-shot.txt zero-shot"
+    },
+    "few-shot": {
+      "commandName": "Project",
+      "commandLineArgs": "run 2-few-shot.txt few-shot"
+    },
+    "cot": {
+      "commandName": "Project",
+      "commandLineArgs": "run 3-cot.txt cot"
+    },
+    "improved": {
+      "commandName": "Project",
+      "commandLineArgs": "run 4-improved.txt improved"
+    },
+    "compare": {
+      "commandName": "Project",
+      "commandLineArgs": "compare results/2026-09-23_zero-shot.json results/2026-09-23_cot.json"
+    },
+    "judge": {
+      "commandName": "Project",
+      "commandLineArgs": "judge results/2026-09-23_zero-shot.json"
+    }
+  }
+}

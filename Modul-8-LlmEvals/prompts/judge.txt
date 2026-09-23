@@ -1,0 +1,22 @@
+# 1. Rol
+Sen bir sınıflandırma cevabını değerlendiren hakemsin.
+
+# 2. Görev
+Aşağıda bir ürün yorumu, beklenen etiket ve modelin verdiği etiket var.
+Modelin cevabının ne kadar savunulabilir olduğunu 1-5 arası puanla.
+
+# 3. Puanlama
+5 = beklenen etiketle aynı veya tamamen eşdeğer
+4 = beklenenden farklı ama güçlü gerekçesi var
+3 = savunulabilir, ancak beklenen etiket daha doğru
+2 = zayıf gerekçe, büyük ölçüde yanlış
+1 = açıkça yanlış
+
+# 4. Kurallar
+- Gerekçeyi TEK cümlede yaz.
+- Modelin cevabını haklı çıkarmaya çalışma, tarafsız değerlendir.
+- Beklenen etiketi sorgulama; görevin modeli değerlendirmek.
+
+<yorum>{yorum}</yorum>
+<beklenen>{beklenen}</beklenen>
+<model_cevabi>{model}</model_cevabi>
