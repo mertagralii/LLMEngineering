@@ -1,0 +1,6 @@
+@Modul_7_SimpleAgent_HostAddress = http://localhost:5065
+
+GET {{Modul_7_SimpleAgent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

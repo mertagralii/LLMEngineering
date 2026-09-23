@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul-5-Embeddings", "Modul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul-6-SimpleRag", "Modul-6-SimpleRag\Modul-6-SimpleRag.csproj", "{56C964C8-C465-4817-B25D-A011B9F945B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul-7-SimpleAgent", "Modul-7-SimpleAgent\Modul-7-SimpleAgent.csproj", "{DDD133B0-985E-4B93-8420-424B82F98634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,6 +110,18 @@ Global
 		{56C964C8-C465-4817-B25D-A011B9F945B8}.Release|x64.Build.0 = Release|Any CPU
 		{56C964C8-C465-4817-B25D-A011B9F945B8}.Release|x86.ActiveCfg = Release|Any CPU
 		{56C964C8-C465-4817-B25D-A011B9F945B8}.Release|x86.Build.0 = Release|Any CPU
+		{DDD133B0-985E-4B93-8420-424B82F98634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD133B0-985E-4B93-8420-424B82F98634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD133B0-985E-4B93-8420-424B82F98634}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DDD133B0-985E-4B93-8420-424B82F98634}.Debug|x64.Build.0 = Debug|Any CPU
+		{DDD133B0-985E-4B93-8420-424B82F98634}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DDD133B0-985E-4B93-8420-424B82F98634}.Debug|x86.Build.0 = Debug|Any CPU
+		{DDD133B0-985E-4B93-8420-424B82F98634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD133B0-985E-4B93-8420-424B82F98634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD133B0-985E-4B93-8420-424B82F98634}.Release|x64.ActiveCfg = Release|Any CPU
+		{DDD133B0-985E-4B93-8420-424B82F98634}.Release|x64.Build.0 = Release|Any CPU
+		{DDD133B0-985E-4B93-8420-424B82F98634}.Release|x86.ActiveCfg = Release|Any CPU
+		{DDD133B0-985E-4B93-8420-424B82F98634}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
