@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "retry": {
+      "commandName": "Project",
+      "commandLineArgs": "retry"
+    },
+    "chain": {
+      "commandName": "Project",
+      "commandLineArgs": "chain"
+    },
+    "cache": {
+      "commandName": "Project",
+      "commandLineArgs": "cache"
+    },
+    "promptcache": {
+      "commandName": "Project",
+      "commandLineArgs": "promptcache"
+    }
+  }
+}
